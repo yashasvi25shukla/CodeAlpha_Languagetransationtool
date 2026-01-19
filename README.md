@@ -1,5 +1,3 @@
-# CodeAlpha_Languagetransationtool
-A simple web-based language translator using LibreTranslate API. Translate text between multiple languages instantly with a clean and user-friendly interface.
 # Language Translator Web Application
 
 **A professional, web-based language translator** that allows users to seamlessly translate text between multiple languages using the **LibreTranslate API**. The application is lightweight, responsive, and user-friendly, built with modern web technologies.  
